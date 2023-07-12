@@ -1,4 +1,4 @@
-![image](https://github.com/mango1213/Metabolic-heterogeneity-repository/assets/82602606/34208866-2159-4e55-99eb-b839f277351f)# Metabolic-heterogeneity-repository
+# Metabolic-heterogeneity-repository
 Metabolic heterogeneity affects trastuzumab response and survival in HER2-positive advanced gastric cancer
 
 # Abstract
